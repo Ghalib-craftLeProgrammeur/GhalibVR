@@ -5,7 +5,7 @@
      Création de la bibliothèque D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.lib et de l'objet D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.exp
   Génération de code en cours
   Previous IPDB not found, fall back to full compilation.
-  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Fin de la génération du code
   simplecontroller.vcxproj -> D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.dll
   D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\driver.vrdrivermanifest

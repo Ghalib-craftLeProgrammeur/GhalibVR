@@ -1,2 +1,6 @@
 .vs
 drivers/output
+drivers/drivers/simplecontroller/x64/Release
+drivers/x64/Release
+drivers/utils/
+repomix-*.xml
