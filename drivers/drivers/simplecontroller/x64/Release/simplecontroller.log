@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  controller_device_driver.cpp
+  device_provider.cpp
+  hmd_driver_factory.cpp
+     Création de la bibliothèque D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.lib et de l'objet D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.exp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  simplecontroller.vcxproj -> D:\Documents\C++ Projects\GhalibVR\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.dll
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\driver.vrdrivermanifest
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\driver.vrresources
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_error.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_off.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_alert.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_low.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching.gif
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching_alert.gif
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_standby.png
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\input\mycontroller_profile.json
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\localization\localization.json
+  D:\Documents\C++ Projects\GhalibVR\drivers\drivers\simplecontroller\simplecontroller\resources\settings\default.vrsettings
+  13 fichier(s) copiÚ(s)

@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  controller_device_driver.cpp
+  device_provider.cpp
+  hmd_driver_factory.cpp
+  Génération de code en cours...
+     Création de la bibliothèque D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.lib et de l'objet D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.exp
+  simplecontroller.vcxproj -> D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\output\drivers\simplecontroller\bin\win64\driver_simplecontroller.dll
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\driver.vrdrivermanifest
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\driver.vrresources
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_error.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_off.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_alert.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_ready_low.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching.gif
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_searching_alert.gif
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\icons\controller_status_standby.png
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\input\mycontroller_profile.json
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\localization\localization.json
+  D:\Telechargement\openvr\openvr-2.5.1\samples\drivers\drivers\simplecontroller\simplecontroller\resources\settings\default.vrsettings
+  13 fichier(s) copiÚ(s)
